@@ -4,11 +4,11 @@ package ProjectApp001;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import Model.Task;
-import controller.TaskController;
+import Controller.TaskController;
 import java.util.Date;
 import java.sql.SQLException;
 import Model.Project;
-import controller.ProjectController;
+import Controller.ProjectController;
 import java.util.Scanner;
 
 

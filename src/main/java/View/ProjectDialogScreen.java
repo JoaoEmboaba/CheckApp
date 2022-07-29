@@ -6,7 +6,7 @@
 package View;
 
 import Model.Project;
-import controller.ProjectController;
+import Controller.ProjectController;
 import javax.swing.JOptionPane;
 
 
